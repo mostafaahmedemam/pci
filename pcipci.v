@@ -119,10 +119,14 @@ req_b=0;
 req_a=1;
 frame=1;
 #3
+frame=0;
 req_c=0;
-req_a=0;
+#3
+req_b=1;
+frame=1;
 #3
 frame=0;
+
 
 
 
